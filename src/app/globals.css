@@ -2,26 +2,59 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+
+footer{
+  background-color: black;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+.footer-bottom{
+  text-align: center;
+  color: #fff;
+  font-weight: 900;
+  padding-top: 30px;
+  padding-bottom:20px ;
+}
+
+/* Define the keyframes for fade-up animation */
+@keyframes fadeUp {
+  0% {
+    opacity: 0;
+    transform: translateY(200px); /* Starts slightly below */
+  }
+  50%{
+    opacity: 1;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0); /* Moves to its original position */
   }
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+
+/* Apply the animation to the element */
+.fade-up {
+  opacity: 0; /* Initial state before the animation */
+  animation: fadeUp 2s ease-out  forwards; /* 1s duration, ease-out timing */
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+.fade-ups {
+  opacity: 0; /* Initial state before the animation */
+  animation: fadeUp 4s ease-out 600ms forwards; /* 1s duration, ease-out timing */
+}
+
+@keyframes zoomInCenter {
+  0% {
+    opacity: 0;
+    transform: scale(0.5); /* Start smaller at the center */
   }
+  100% {
+    opacity: 1;
+    transform: scale(1); /* Zoom to normal size */
+  }
+}
+
+.zoom-in-center {
+  opacity: 0; /* Start hidden */
+  animation: zoomInCenter 3s ease-out 1200ms forwards; /* 1s duration, ease-out timing */
 }
