@@ -28,8 +28,8 @@ export default function Blog2() {
           explain how songs often use these expressions, helping learners
           understand them in context:
           <li className="list-disc">
-            Examples of popular songs that feature common idioms (e.g., "Let it
-            Be" by The Beatles for the idiom "let it be").
+            Examples of popular songs that feature common idioms (e.g., Let it
+            Be by The Beatles for the idiom let it be).
           </li>
           <li className="list-disc">
             How to break down the meanings of phrasal verbs in song lyrics.
@@ -50,8 +50,8 @@ export default function Blog2() {
           understand them in context:
           <ul>
             <li className="list-disc">
-              Examples of popular songs that feature common idioms (e.g., "Let
-              it Be" by The Beatles for the idiom "let it be").
+              Examples of popular songs that feature common idioms (e.g., Let
+              it Be by The Beatles for the idiom let it be).
             </li>
             <li className="list-disc">
               How to break down the meanings of phrasal verbs in song lyrics.
@@ -72,8 +72,8 @@ export default function Blog2() {
           explain how songs often use these expressions, helping learners
           understand them in context:
           <li className="list-disc">
-            Examples of popular songs that feature common idioms (e.g., "Let it
-            Be" by The Beatles for the idiom "let it be").
+            Examples of popular songs that feature common idioms (e.g., Let it
+            Be by The Beatles for the idiom let it be).
           </li>
           <li className="list-disc">
             How to break down the meanings of phrasal verbs in song lyrics.

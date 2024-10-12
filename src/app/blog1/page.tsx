@@ -18,7 +18,7 @@ export default function Blog1(){
             <ul>
             <li className="list-disc">Natural practice of intonation and rhythm in spoken English.</li>
             <li className="list-disc">The opportunity to mimic native speaker accents.</li>
-            <li className="list-disc">Reinforcement of sounds that are challenging in English (e.g., vowel shifts, the "th" sound).</li>
+            <li className="list-disc">Reinforcement of sounds that are challenging in English (e.g., vowel shifts, the th sound).</li>
             The blog could include exercises where learners listen to specific songs and repeat difficult phrases. You might also explore karaoke apps that can help students sing in English and get real-time pronunciation feedback.
         </ul>
             </p>
@@ -28,7 +28,7 @@ export default function Blog1(){
 <ul>
             <li className="list-disc">Natural practice of intonation and rhythm in spoken English.</li>
             <li className="list-disc">The opportunity to mimic native speaker accents.</li>
-            <li className="list-disc">Reinforcement of sounds that are challenging in English (e.g., vowel shifts, the "th" sound).</li>
+            <li className="list-disc">Reinforcement of sounds that are challenging in English (e.g., vowel shifts, the th sound).</li>
             The blog could include exercises where learners listen to specific songs and repeat difficult phrases. You might also explore karaoke apps that can help students sing in English and get real-time pronunciation feedback.
 </ul>
             </p>
@@ -38,7 +38,7 @@ export default function Blog1(){
 <ul>
             <li className="list-disc">Natural practice of intonation and rhythm in spoken English.</li>
             <li className="list-disc">The opportunity to mimic native speaker accents.</li>
-            <li className="list-disc">Reinforcement of sounds that are challenging in English (e.g., vowel shifts, the "th" sound).</li>
+            <li className="list-disc">Reinforcement of sounds that are challenging in English (e.g., vowel shifts, the th sound).</li>
             The blog could include exercises where learners listen to specific songs and repeat difficult phrases. You might also explore karaoke apps that can help students sing in English and get real-time pronunciation feedback.
 </ul>
             </p>

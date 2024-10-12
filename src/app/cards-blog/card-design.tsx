@@ -38,7 +38,7 @@ export default function CardDesign() {
                 Natural practice of intonation and rhythm in spoken English.The
                 opportunity to mimic native speaker accents. Reinforcement of
                 sounds that are challenging in English (e.g., vowel shifts, the
-                "th" sound).
+                th sound).
               </p>
 
               <button className="my-5 bg-[#a28089] hover:bg-[#aa93d5] hover:text-yellow-300 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-lg relative overflow-hidden">
@@ -135,7 +135,7 @@ export default function CardDesign() {
                 Natural practice of intonation and rhythm in spoken English.The
                 opportunity to mimic native speaker accents. Reinforcement of
                 sounds that are challenging in English (e.g., vowel shifts, the
-                "th" sound).
+                th sound).
               </p>
 
               <button className="my-5 bg-[#a28089] hover:bg-[#aa93d5] hover:text-yellow-300 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-lg relative overflow-hidden">

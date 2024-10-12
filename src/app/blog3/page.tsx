@@ -21,7 +21,7 @@ export default function Blog3(){
             <li className="list-disc">Examples of songs that focus on specific vocabulary (e.g., body parts, emotions, weather).</li>
             <li className="list-disc">How learners can create their own vocabulary playlists based on the level of difficulty or topic.</li>
             </ul>
-            This blog could also recommend popular English songs with simple, clear lyrics for beginner and intermediate learners, such as classic pop songs or children's music.
+            This blog could also recommend popular English songs with simple, clear lyrics for beginner and intermediate learners, such as classic pop songs or childrens music.
             </p>
 
             <h2 className="text-3xl font-bold p-2">How Music Can Expand Your English Word Bank</h2>
@@ -32,7 +32,7 @@ export default function Blog3(){
             <li className="list-disc">Examples of songs that focus on specific vocabulary (e.g., body parts, emotions, weather).</li>
             <li className="list-disc">How learners can create their own vocabulary playlists based on the level of difficulty or topic.</li>
             </ul>
-            This blog could also recommend popular English songs with simple, clear lyrics for beginner and intermediate learners, such as classic pop songs or children's music.
+            This blog could also recommend popular English songs with simple, clear lyrics for beginner and intermediate learners, such as classic pop songs or childrens music.
             </p>
 
             <h2 className="text-3xl font-bold p-2">How Music Can Expand Your English Word Bank</h2>
@@ -43,7 +43,7 @@ export default function Blog3(){
             <li className="list-disc">Examples of songs that focus on specific vocabulary (e.g., body parts, emotions, weather).</li>
             <li className="list-disc">How learners can create their own vocabulary playlists based on the level of difficulty or topic.</li>
             </ul>
-            This blog could also recommend popular English songs with simple, clear lyrics for beginner and intermediate learners, such as classic pop songs or children's music.
+            This blog could also recommend popular English songs with simple, clear lyrics for beginner and intermediate learners, such as classic pop songs or childrens music.
             </p>
         </section>
 
